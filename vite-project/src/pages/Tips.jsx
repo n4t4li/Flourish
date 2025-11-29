@@ -1,3 +1,3 @@
 export default function Tips() {
-  return <h2 className="text-3xl font-semibold">AI Tips</h2>;
+  return <h2 className="text-4xl md:text-5xl font-semibold text-center">AI Tips</h2>;
 }
